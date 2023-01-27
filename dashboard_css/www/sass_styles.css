@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
+h1 {
+  color: #de0495;
+  font-family: "Sacramento", cursive;
+}
+
+h3 {
+  color: #efaefc;
+  font-family: "Sacramento", cursive;
+}
+
+.box-body {
+  background-color: #f74ab8;
+}

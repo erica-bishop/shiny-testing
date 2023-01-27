@@ -1,0 +1,11 @@
+name: shiny-dashboard
+title:
+username:
+account: erica-bishop
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8151268
+bundleId: 6782322
+url: https://erica-bishop.shinyapps.io/shiny-dashboard/
+when: 1674854566.18246
+lastSyncTime: 1674854566.18248

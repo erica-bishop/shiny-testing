@@ -1,0 +1,24 @@
+//fonts
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+$sacramento: 'Sacramento', cursive;
+
+// sass variables 
+$pink: #f74ab8;
+$lilac: #efaefc;
+$magenta: #de0495;
+
+// css rules
+h1 {
+  color: $magenta;
+  font-family: $sacramento;
+}
+
+h3 {
+  color: $lilac;
+  font-family: $sacramento;
+}
+
+.box-body {
+  background-color: $pink
+}
